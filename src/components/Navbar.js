@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <div>
         <nav>
-            <h1 className='headline'>NOTES</h1>
+            <h1 className='headline'>Hey 👋 Create your notes 🗒️ </h1>
         </nav>
     </div>
   )
